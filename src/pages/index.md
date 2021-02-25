@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Shop. Scan. GO!
     subtitle: Shop smarter and skip the line.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      With ShopSmart, never wait in line again. Checkout on your phone and take
+      control of your time!
     actions:
       - label: Try Free
         url: /pricing
