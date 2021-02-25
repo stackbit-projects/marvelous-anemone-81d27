@@ -8,7 +8,7 @@ sections:
       With ShopSmart, never wait in line again. Checkout on your phone and take
       control of your time!
     actions:
-      - label: Try Free
+      - label: Download
         url: /pricing
         style: primary
       - label: Learn More
