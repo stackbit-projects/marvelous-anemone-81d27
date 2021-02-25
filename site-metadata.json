@@ -9,7 +9,7 @@
         "logo": "images/cart.png",
         "logo_alt": "ShopSmart",
         "has_primary_nav": true,
-        "background-color" : #E5393E,
+        "color" : #E5393E,
         "primary_nav_links": [
             {
                 "label": "Features",
