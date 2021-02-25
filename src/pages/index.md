@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Shop. Scan. GO!
-    subtitle: Optional hero section subtitle
+    subtitle: Shop smarter and skip the line.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
