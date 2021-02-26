@@ -243,7 +243,7 @@ sections:
       Want to be the first in line to try ShopSmart? Join the waiting list and
       be the first to be updated upon beta testing! 
     actions:
-      - label: Learn More
+      - label: Subscribe
         url: /features
         style: secondary
     actions_position: right
