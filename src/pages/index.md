@@ -56,7 +56,6 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Features Section
-    subtitle: Features Section Example
     features:
       - title: Scan While You Shop
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
