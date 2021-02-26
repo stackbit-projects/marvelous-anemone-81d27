@@ -239,10 +239,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Never miss an update! Join the waiting list.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Want to be the first in line to try ShopSmart? Join the waiting list and
+      be the first to be updated upon beta testing! 
     actions:
       - label: Learn More
         url: /features
