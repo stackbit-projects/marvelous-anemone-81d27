@@ -53,6 +53,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    title: Title
   - type: features_section
     title: Explore Our Features
     features:
