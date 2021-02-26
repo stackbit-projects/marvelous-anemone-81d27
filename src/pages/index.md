@@ -113,8 +113,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
+      - image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
     feature_padding_vert: small
