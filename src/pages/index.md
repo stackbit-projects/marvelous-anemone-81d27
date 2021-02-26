@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/ss.png
+    image: images/viki-mohamad-tWXH_zGJrPo-unsplash.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
