@@ -23,7 +23,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
     subtitle: More to come!
     align: center
     grid_items:
