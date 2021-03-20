@@ -43,10 +43,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Multiple Ways to Pay
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          You can use venmo, paypal, or any other credit card to check out
+          within seconds at your own convenience!
         actions:
           - label: Learn More
             url: /style-guide
