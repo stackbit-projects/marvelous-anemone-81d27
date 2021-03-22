@@ -59,10 +59,8 @@ sections:
         media_width: fifty
       - title: Discover Deals!
         subtitle: 'Get the latest, hottest deals in stores near you!'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Its easy, fast, and fun!
         actions:
           - label: Learn More
             url: /style-guide
