@@ -83,15 +83,6 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    subtitle: Grid Section Example
-    grid_items: []
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: small
-    enable_cards: true
-    align: center
-    background_color: none
-  - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
     grid_items:
