@@ -150,7 +150,7 @@ sections:
     title: Team Section
     subtitle: Grid Section Example
     actions:
-      - label: Join the team
+      - label: Join the WaitList
         url: /style-guide
         style: primary
     grid_items:
