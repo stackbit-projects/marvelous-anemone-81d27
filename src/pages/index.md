@@ -85,26 +85,6 @@ sections:
   - type: grid_section
     subtitle: Grid Section Example
     grid_items:
-      - title: Section Item 1
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-1.svg
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
       - title: Section Item 2
         title_align: left
         content: >-
