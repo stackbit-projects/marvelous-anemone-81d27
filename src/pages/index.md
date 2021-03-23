@@ -199,7 +199,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
+    title: The Shop Smart App will launch in a few weeks- reserve your spot today!
     content: |
       The Ultimate Shopping Experience
     actions:
