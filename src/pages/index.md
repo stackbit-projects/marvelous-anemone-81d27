@@ -131,12 +131,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-  - type: grid_section
-    actions: []
-    grid_items: []
-    grid_cols: four
-    align: center
-    background_color: secondary
   - type: cta_section
     title: The ShopSmart App will launch in a few weeks. Reserve your spot today!
     content: |
