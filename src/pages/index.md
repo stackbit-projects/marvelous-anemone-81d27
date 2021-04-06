@@ -147,10 +147,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    actions:
-      - label: Join the WaitList
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items: []
     grid_cols: four
     align: center
