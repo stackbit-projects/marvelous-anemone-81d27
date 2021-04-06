@@ -131,21 +131,6 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
-  - type: cta_section
-    title: Never miss an update! Join the waiting list.
-    content: >
-      Want to be the first in line to try ShopSmart? Join the waiting list and
-      be the first to be updated upon beta testing! 
-    actions:
-      - label: Subscribe
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: grid_section
     actions: []
     grid_items: []
