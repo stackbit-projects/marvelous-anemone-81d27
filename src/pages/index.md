@@ -152,6 +152,19 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
+  - type: cta_section
+    title: The ShopSmart App will launch in a few weeks. Reserve your spot today!
+    content: |
+      The Ultimate Shopping Experience
+    actions:
+      - label: Join the Waitlist!
+        url: /pricing
+        style: primary
+    actions_position: bottom
+    align: center
+    padding_top: large
+    padding_bottom: large
+    background_color: secondary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
@@ -173,19 +186,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-  - type: cta_section
-    title: The ShopSmart App will launch in a few weeks. Reserve your spot today!
-    content: |
-      The Ultimate Shopping Experience
-    actions:
-      - label: Join the Waitlist!
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
