@@ -174,7 +174,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: The Shop Smart App will launch in a few weeks- reserve your spot today!
+    title: The ShopSmart App will launch in a few weeks. Reserve your spot today!
     content: |
       The Ultimate Shopping Experience
     actions:
