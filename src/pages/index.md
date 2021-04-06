@@ -151,12 +151,7 @@ sections:
       - label: Join the WaitList
         url: /style-guide
         style: primary
-    grid_items:
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
+    grid_items: []
     grid_cols: four
     align: center
     background_color: secondary
