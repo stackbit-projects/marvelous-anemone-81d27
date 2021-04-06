@@ -147,7 +147,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    subtitle: Grid Section Example
     actions:
       - label: Join the WaitList
         url: /style-guide
