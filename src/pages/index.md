@@ -133,8 +133,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: The ShopSmart App will launch in a few weeks. Reserve your spot today!
-    content: |
-      The Ultimate Shopping Experience
+    content: >
+      Reserve your spot to become a beta tester. Be apart of the ultimate
+      shopping experience!
     actions:
       - label: Join the Waitlist!
         url: /pricing
