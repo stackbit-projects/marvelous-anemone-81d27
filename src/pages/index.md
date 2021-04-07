@@ -36,7 +36,7 @@ sections:
         media_width: fifty
       - title: Multiple Ways to Pay
         actions: []
-        image: images/ss_payment.JPG
+        image: images/happy-apple.JPG
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
