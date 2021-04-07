@@ -41,8 +41,8 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: >-
-          You can use venmo, paypal, or any other credit card to check out
-          within seconds at your own convenience!
+          You can use Venmo, debit, or credit to check out within seconds at
+          your own convenience!
       - title: Discover Deals!
         subtitle: 'Get the latest, hottest deals in stores near you!'
         content: |
