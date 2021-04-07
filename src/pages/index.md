@@ -26,7 +26,9 @@ sections:
     title: Explore Our Features
     features:
       - title: Scan While You Shop
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Scan your groceries while you shop. When you are done, simply press
+          checkout and you are good to go!
         actions: []
         image: images/ss.png
         image_alt: Feature 1 placeholder image
