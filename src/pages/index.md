@@ -27,10 +27,6 @@ sections:
     features:
       - title: Scan While You Shop
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
         actions: []
         image: images/ss.png
         image_alt: Feature 1 placeholder image
