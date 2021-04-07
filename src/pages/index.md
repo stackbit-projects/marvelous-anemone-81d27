@@ -40,6 +40,9 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        subtitle: >-
+          You can use venmo, paypal, or any other credit card to check out
+          within seconds at your own convenience!
       - title: Discover Deals!
         subtitle: 'Get the latest, hottest deals in stores near you!'
         content: |
