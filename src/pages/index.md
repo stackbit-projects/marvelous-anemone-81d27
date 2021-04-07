@@ -52,7 +52,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Discover Deals
-        subtitle: lorem-ipsum
+        subtitle: 'Get the latest, hottest deals in stores near you!'
         content: >-
           ## Lorem ipsum
 
