@@ -58,6 +58,7 @@ sections:
         media_position: right
         media_width: fifty
         align: left
+        image: images/ss_discover-removebg-preview.png
     feature_padding_vert: large
     align: center
     background_color: secondary
