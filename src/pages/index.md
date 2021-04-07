@@ -84,7 +84,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: Customer Reviews
-    subtitle: Grid Section Example
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
