@@ -11,7 +11,7 @@ sections:
       - label: Download TBA
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Contact Us
         url: /features
         style: secondary
     image: images/viki-mohamad-tWXH_zGJrPo-unsplash.jpg
