@@ -35,9 +35,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Multiple Ways to Pay
-        content: >
-          You can use venmo, paypal, or any other credit card to check out
-          within seconds at your own convenience!
         actions: []
         image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
