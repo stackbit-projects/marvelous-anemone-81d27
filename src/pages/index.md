@@ -47,13 +47,7 @@ sections:
         subtitle: 'Get the latest, hottest deals in stores near you!'
         content: |
           Its easy, fast, and fun!
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
