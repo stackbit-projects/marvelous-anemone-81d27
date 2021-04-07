@@ -83,7 +83,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Reviews Section
+    title: Customer Reviews
     subtitle: Grid Section Example
     grid_items:
       - content: >-
