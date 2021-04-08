@@ -64,7 +64,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
-    title: The ShopSmart App will launch in a few weeks. Reserve your spot today!
+    title: The ShopSmart App is in development. Reserve your spot today!
     content: >
       Reserve your spot to become a beta tester. Become a part of the ultimate
       shopping experience!
